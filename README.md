@@ -8,6 +8,6 @@ My custom Catppuccin Mocha wallpapers I made with Krita
 
 ![](arch.png)
 ![](arch_matrix.png)
-![](arch_rainbox.png)
+![](arch_rainbow.png)
 ![](linux.png)
 ![](pacman.png)
